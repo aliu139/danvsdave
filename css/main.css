@@ -1,0 +1,13 @@
+#pic1, #pic2{
+    height: 50%;
+}
+
+#everything{
+    height: 100%;
+}
+
+.card-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
